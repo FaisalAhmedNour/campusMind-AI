@@ -1,0 +1,8 @@
+src/App.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/components/Layout.tsx(1,8): error TS6133: 'React' is declared but its value is never read.
+src/pages/AiChat.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/AssignmentSummary.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/AutoGrader.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/Dashboard.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/NoticeSimplifier.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
+src/pages/VivaGenerator.tsx(1,1): error TS6133: 'React' is declared but its value is never read.
